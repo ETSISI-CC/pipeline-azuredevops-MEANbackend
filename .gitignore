@@ -1,4 +1,15 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vs/*
+
+# dependencies
 node_modules
 package-lock.json
+
 reports
+
 env.js

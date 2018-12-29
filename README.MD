@@ -1,14 +1,16 @@
 # API-NODE
 
+This application will be used in the course "Software Evolution and Maintenance" of Software Engieering Degre of Technical University of Madrid (Universidad Politécnica de Madrid, ETSI Sistemas Informáticos).
+
 ## Description
 
-API in NodeJS and Express with connection to a Azure CosmosDB.
+This is the code of a basic API in NodeJS and Express with connection to a Azure CosmosDB.
 
 ## Getting Started
 
 ### Download
 
-    > git clone http://github.com/pablocc/api-node
+    > git clone https://github.com/jdiazfernandez/api-node
 
 ### Install dependencies
 
@@ -16,7 +18,7 @@ API in NodeJS and Express with connection to a Azure CosmosDB.
 
 ### Configurate Database
 
-    Edit the file env.js in the root folder.
+Create the file env.js in the root folder.
 
 ```javascript
     module.exports = {
@@ -27,8 +29,6 @@ API in NodeJS and Express with connection to a Azure CosmosDB.
     };
 
 ``` 
-
-It is not recommended to save the keys of this file in public repositories. This file should be hidden by including it in the .gitignore file and then manually include it in the pipeline.
 
 ### Start 
 

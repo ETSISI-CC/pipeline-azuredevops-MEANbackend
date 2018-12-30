@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jdiazEMS/EMSTrabajo1MEANbackend/_apis/build/status/EMSTrabajo1MEANbackend-rg%20-%20CI?branchName=master)](https://dev.azure.com/jdiazEMS/EMSTrabajo1MEANbackend/_build/latest?definitionId=1?branchName=master)
+
 # API-NODE
 
 This application will be used in the course "Software Evolution and Maintenance" of Software Engieering Degre of Technical University of Madrid (Universidad Politécnica de Madrid, ETSI Sistemas Informáticos).
